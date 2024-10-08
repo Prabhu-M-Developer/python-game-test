@@ -1,3 +1,3 @@
 # python-game-test
-<br>
-Python gaming program test By Prabhu M
+
+Python gaming program test <br> By Prabhu M
